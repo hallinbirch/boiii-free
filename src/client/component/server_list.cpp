@@ -303,8 +303,8 @@ void add_lan_server_from_string(const std::string &in) {
 }
 } // namespace
 
-static std::vector<std::string> master_server_hosts{"master.ezz.lol:20810",
-                                                    "m.ezz.lol:20810"};
+static std::vector<std::string> master_server_hosts{"ChaoticRealms.LAN:20810",
+                                                    "CR.XAO.LAN:20810"};
 
 inline void parse_master_server_hosts() {
   std::string data;
