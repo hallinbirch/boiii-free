@@ -2,3 +2,5 @@
 .vscode
 build/
 usergenerate.bat
+nul
+.clangd
