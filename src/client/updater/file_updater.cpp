@@ -13,15 +13,15 @@
 #include <utils/string.hpp>
 #include <utils/properties.hpp>
 
-#define UPDATE_SERVER "https://r2.ezz.lol/"
+#define UPDATE_SERVER "https://ChaoticRealms.LAN/"
 
-#define UPDATE_FILE_MAIN UPDATE_SERVER "boiii.json"
-#define UPDATE_FOLDER_MAIN UPDATE_SERVER "boiii/"
+#define UPDATE_FILE_MAIN UPDATE_SERVER "BlackOps3-Offline.json"
+#define UPDATE_FOLDER_MAIN UPDATE_SERVER "BlackOps3-Offline/"
 
-#define UPDATE_FILE_BETA UPDATE_SERVER "boiii-beta.json"
-#define UPDATE_FOLDER_BETA UPDATE_SERVER "boiii/beta/"
+#define UPDATE_FILE_BETA UPDATE_SERVER "BlackOps3-Offline-beta.json"
+#define UPDATE_FOLDER_BETA UPDATE_SERVER "BlackOps3-Offline/beta/"
 
-#define UPDATE_HOST_BINARY "boiii.exe"
+#define UPDATE_HOST_BINARY "BlackOps3-Offline.exe"
 
 namespace updater {
 namespace {
